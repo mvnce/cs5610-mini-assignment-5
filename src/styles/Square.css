@@ -1,0 +1,13 @@
+.square {
+  height: 100px;
+  width: 100px;
+  border: 1px solid grey;
+}
+
+.square-active {
+  background-color: black;
+}
+
+.square-inactive {
+  background-color: white;
+}
